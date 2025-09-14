@@ -41,8 +41,14 @@ redirect_from:
 #1. Go to the
 #[1]	
 
+主要教研教改论文
+======
+1. 黄凯 (研究生), 陈文慧, 曹德让, 陆振烟*, “斜抛越障轨迹及其影响参数的理论研究,” 湖南科技学院学报, xx(xx), xx-xx (2026).
+1. 王闻作, 陈子沐, 肖佳康, 陆振烟*, “SNP教学模式融入高中物理课堂教学的实践与思考——以“弹力”教学为例,” 物理教学 47(4), 11-14 (2025).
+2. 邹文娟, 王舒鹏, 麻志君, 陆振烟*, “5E模式结合PhET仿真实验的高中物理教学设计——以“抛体运动”为例,” 物理之友  486(9), 55-59 (2025).
+#1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 
-
+#Site-wide configuration
 [1]	黄凯 (研究生), 陈文慧, 曹德让, 陆振烟*, “斜抛越障轨迹及其影响参数的理论研究,” 湖南科技学院学报, xx(xx), xx-xx (2026). 
 [2]	王闻作, 陈子沐, 肖佳康, 陆振烟*, “SNP教学模式融入高中物理课堂教学的实践与思考——以“弹力”教学为例,” 物理教学 47(4), 11-14 (2025).
 [3]	邹文娟, 王舒鹏, 麻志君, 陆振烟*, “5E模式结合PhET仿真实验的高中物理教学设计——以“抛体运动”为例,” 物理之友  486(9), 55-59 (2025).
