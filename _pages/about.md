@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  **陆振烟**，男，博士，副教授，硕士生导师，物理系主任，入选湖南科技大学“湘江学者”拔尖人才计划，湖南省物理学会理事。2011年9月至2017年1月在中国科学院大学物理科学学院读研究生，硕博连读，获得理学博士学位，研究方向为夸克物质性质和QCD相变；2017年1月至2019年9月在中国科学院理论物理研究所理论物理前沿重点实验室从事博士后研究工作，研究方向为手征有效场论和轴子性质，同年10月入职湖南科技大学物理与电子科学学院物理系。在《Physical Review D》，《European Physical Journal C》，《Journal of High Energy Physics》，《Science China Physics, Mechanics & Astronomy》，《Chinese Physics C》等国内外高水平SCI期刊上发表30篇学术论文，主持国家自然科学基金、湖南省自然科学基金、湖南省教育厅项目、中国博士后基金各一项；2021、2023年分别获湘潭市自然科学优秀学术论文一等奖和三等奖；2021年至今，指导及与本科生合作发表SCI、教学研究论文10余篇。 
+   **陆振烟**，男，博士，副教授，硕士生导师，物理系主任，入选湖南科技大学“湘江学者”拔尖人才计划，湖南省物理学会理事。2011年9月至2017年1月在中国科学院大学物理科学学院读研究生，硕博连读，获得理学博士学位，研究方向为夸克物质性质和QCD相变；2017年1月至2019年9月在中国科学院理论物理研究所理论物理前沿重点实验室从事博士后研究工作，研究方向为手征有效场论和轴子性质，同年10月入职湖南科技大学物理与电子科学学院物理系。在《Physical Review D》，《European Physical Journal C》，《Journal of High Energy Physics》，《Science China Physics, Mechanics & Astronomy》，《Chinese Physics C》等国内外高水平SCI期刊上发表30篇学术论文，主持国家自然科学基金、湖南省自然科学基金、湖南省教育厅项目、中国博士后基金各一项；2021、2023年分别获湘潭市自然科学优秀学术论文一等奖和三等奖；2021年至今，指导及与本科生合作发表SCI、教学研究论文10余篇。 
   
 主讲课程
 ======
@@ -23,6 +23,7 @@ redirect_from:
 招生方向
 ======
 物理学（粒子物理与核物理, 天体物理, 理论物理等）, 学科教学（物理）
+
 每年招收1-3名研究生，亦十分欢迎对科研感兴趣的本科生联系及参与科研训练。
 
 联系方式
@@ -46,28 +47,30 @@ redirect_from:
 4. X. Chen, R. Adam, D. E. Bürgler, F. Wang, **Z.-Y. Lu**, et al, “Ultrafast demagnetization in ferromagnetic materials: Origins and progress,” **Phys. Rep.** 1102, 1-63 (2025). (SCI, 中科院一区, Top期刊)
 5. S.-P. Wang, Z.-J. Ma, J.-F. Xu and **Z.-Y. Lu***, “Constraints on the equation of state of quark stars from compact object observations,” **Proceedings** 123(1), 3 (2025).
 6. H.-F. Gong, Q. Lu, and **Z.-Y. Lu***, “The QCD axion in hot and dense matter,” **Proceedings** 123(1), 4 (2025).
-7. H.-F. Gong# (龚红方—保送北京航空航天大学读研), Q. Lu#, **Z.-Y. Lu***, L.-M. Liu, X. Chen, and S.-P. Wang, “QCD topology and axion properties in an isotropic hot and dense medium,” **Eur. Phys. J. C** 84, 1222 (2024), arXiv:2404.15136 [hep-ph]. (SCI, 中科院二区)
-8. M. Wang, X. Fu, B. Xu, Y. Huang, Y. Yang, **Z.-Y. Lu**, “Testing the cosmic distance duality relation with Type Ia supernova and transverse BAO measurements,” **Eur. Phys. J. C** 84, 702 (2024). (SCI, 中科院二区)
-9. Z.-J. Ma, **Z.-Y. Lu***, J.-F. Xu, G.-X. Peng, X. Fu, and J. Wang, “Cold quark matter in a quasiparticle model: Thermodynamic consistency and stellar properties,” **Phys. Rev. D** 108, 054017 (2023), arXiv:2308.05308 [hep-ph]. (SCI, 中科院二区, Top期刊)
-10. J.-F. Xu, L. Cui, **Z.-Y. Lu**, C.-J. Xia, and G.-X. Peng, “Gravitational wave echoes from strange quark stars in the equation of state with density-dependent quark masses,” **Nucl. Sci. Tech.** 34, 171 (2023). (SCI, 中科院一区)
-11. Y. Huang, Z. Cao, and **Z.-Y. Lu**, “Generalized Gibbons-Werner method for stationary spacetimes,” **J. Cosmol. Astropart. Phys.** 01, 013 (2024). (SCI, 中科院二区, Top期刊)
-12. **Z.-Y. Lu***, J.-F. Xu, X.-J. Wen, G.-X. Peng, and M. Ruggieri, “Landau quantization and spin polarization of cold magnetized quark matter,” **Chin. Phys. C** 46, 064104 (2022), arXiv:2202.07197 [hep-ph]. (SCI, 中科院二区)
-13. J.-F. Xu, C.-J. Xia, **Z.-Y. Lu**, G.-X. Peng and Y.-P. Zhao, “Symmetry energy of strange quark matter and tidal deformability of strange quark stars,” **Nucl. Sci. Tech.** 33, 143 (2022). (SCI, 中科院二区)
-14. H.-S. You, C.-J. Xia, X.-M. Zhu, P.-H. Peng, J.-F. Xu, **Z.-Y. Lu**, G.-X. Peng, and R.-X. Xu, “Baryon spectra in the framework of an equivparticle model,” **Nucl. Phys. Rev.** 39, 302 (2022).
-15. Q. Lu (卢琪—保送北京航空航天大学读研), W.-J. Chen, **Z.-Y. Lu***, Y. Xu, and X.-Q. Li, “Equation of state and thermodynamic properties of isospin imbalanced strongly interacting matter,” **Acta Phys. Sin.** 70, 145101 (2021). (SCI, 中科院三区)
-16. X. Fu, L. Zhou, J. Yang, **Z.-Y. Lu**, Y. Yang, and G. Tang, “Exploring the potentiality of future standard candles and standard sirens to detect cosmic opacity,” **Chin. Phys. C** 45, 065104 (2021). (SCI, 中科院二区)
-17. **Z.-Y. Lu**, M.-L. Du, F.-K. Guo*, U. G. Meißner, and T. Vonk, “QCD theta-vacuum energy and axion properties,” **J. High Energy Phys.** 05, 001 (2020), arXiv:2003.01625 [hep-ph]. (SCI, 中科院一区, Top期刊)
-18. **Z.-Y. Lu***, C.-J. Xia, and M. Ruggieri, “Thermodynamics and susceptibilities of isospin imbalanced QCD matter,” **Eur. Phys. J. C** 80, 46 (2020), arXiv:1907.11497 [hep-ph]. (SCI, 中科院二区)
-19. M. Ruggieri, M. N. Chernodub, and **Z.-Y. Lu**, “Topological susceptibility, divergent chiral density and phase diagram of chirally imbalanced QCD medium at finite temperature,” **Phys. Rev. D** 102, 014031 (2020), arXiv:2004.09393 [hep-ph]. (SCI, 中科院二区, Top期刊)
-20. **Z.-Y. Lu** and M. Ruggieri, “Effect of the chiral phase transition on axion mass and self-coupling,” **Phys. Rev. D** 100, 014013 (2019), arXiv:1811.05102 [hep-ph]. (SCI, 中科院二区, Top期刊)
-21. **Z.-Y. Lu**, G.-X. Peng*, and K. Zhou, “Effects of non-Newtonian gravity on the properties of strange stars,” **Res. Astron. Astrophys.** 17, 11 (2017).
-22. **Z.-Y. Lu**, G.-X. Peng*, J.-F. Xu, and S. P. Zhang, “Properties of quark matter in a new quasiparticle model with QCD running coupling,” **Sci. China Phys. Mech. Astron.** 59, 662001 (2016).
-23. **Z.-Y. Lu**, G.-X. Peng*, S.-P. Zhang, M. Ruggieri, and V. Greco, “Quark mass scaling and properties of light-quark matter,” **Nucl. Sci. Tech.** 27, 148 (2016).
-24. M. Ruggieri, **Z.-Y. Lu**, and G.-X. Peng, “Influence of chiral chemical potential, parallel electric, and magnetic fields on the critical temperature of QCD,” **Phys. Rev. D** 94, 116003 (2016), arXiv:1608.08310 [hep-ph].
-25. J.-F. Xu, G.-X. Peng*, **Z.-Y. Lu**, and S.-S. Cui, “Two-flavor quark matter in the perturbation theory with full thermodynamic consistency,” **Sci. China Phys. Mech. Astron.** 58, 042001 (2015).
-26. S.-S. Cui, G.-X. Peng*, **Z.-Y. Lu**, C. Peng, and J.-F. Xu, “Properties of color-flavor locked strange quark matter in an external strong magnetic field,” **Nucl. Sci. Tech.** 26, 40503 (2015).
-27. C.-J. Xia, G.-X. Peng*, S.-W. Chen, **Z.-Y. Lu**, and J.-F. Xu, “Thermodynamic consistency, quark mass scaling, and properties of strange matter,” **Phys. Rev. D** 89, 105027 (2014), arXiv:1405.3037 [hep-ph].
-28. L. Gao, **Z.-Y. Lu**, and G.-X. Peng*, “Density isomer of nuclear matter in an equivalent mass approach,” **Nucl. Sci. Tech.** 24, 50505 (2013).
+7. Z.-H. Zhu, K.-K. Chen, Y.-Q. Zhang, X. Fu, Z. Peng, **Z.-Y. Lu**, Y.-F. Chai, Z. Xiong, Lei Tan, “Single-photon scattering in a two-level giant atom-dual waveguide coupled system based on local coupling phase regulation”, **Acta Phys. Sin.**, 2025, 74(15): 153202.  
+8. H.-F. Gong# (龚红方—保送北京航空航天大学读研), Q. Lu#, **Z.-Y. Lu***, L.-M. Liu, X. Chen, and S.-P. Wang, “QCD topology and axion properties in an isotropic hot and dense medium,” **Eur. Phys. J. C** 84, 1222 (2024), arXiv:2404.15136 [hep-ph]. (SCI, 中科院二区)
+9. M. Wang, X. Fu, B. Xu, Y. Huang, Y. Yang, **Z.-Y. Lu**, “Testing the cosmic distance duality relation with Type Ia supernova and transverse BAO measurements,” **Eur. Phys. J. C** 84, 702 (2024). (SCI, 中科院二区)
+10. 徐建峰, 崔磊, 夏铖君, **陆振烟**. 夸克物质对称能与夸克星潮汐形变的研究[J]. **原子核物理评论** 41(1): 325-330 (2024). 
+11. Z.-J. Ma, **Z.-Y. Lu***, J.-F. Xu, G.-X. Peng, X. Fu, and J. Wang, “Cold quark matter in a quasiparticle model: Thermodynamic consistency and stellar properties,” **Phys. Rev. D** 108, 054017 (2023), arXiv:2308.05308 [hep-ph]. (SCI, 中科院二区, Top期刊)
+12. J.-F. Xu, L. Cui, **Z.-Y. Lu**, C.-J. Xia, and G.-X. Peng, “Gravitational wave echoes from strange quark stars in the equation of state with density-dependent quark masses,” **Nucl. Sci. Tech.** 34, 171 (2023). (SCI, 中科院一区)
+13. Y. Huang, Z. Cao, and **Z.-Y. Lu**, “Generalized Gibbons-Werner method for stationary spacetimes,” **J. Cosmol. Astropart. Phys.** 01, 013 (2024). (SCI, 中科院二区, Top期刊)
+14. **Z.-Y. Lu***, J.-F. Xu, X.-J. Wen, G.-X. Peng, and M. Ruggieri, “Landau quantization and spin polarization of cold magnetized quark matter,” **Chin. Phys. C** 46, 064104 (2022), arXiv:2202.07197 [hep-ph]. (SCI, 中科院二区)
+15. J.-F. Xu, C.-J. Xia, **Z.-Y. Lu**, G.-X. Peng and Y.-P. Zhao, “Symmetry energy of strange quark matter and tidal deformability of strange quark stars,” **Nucl. Sci. Tech.** 33, 143 (2022). (SCI, 中科院二区)
+16. H.-S. You, C.-J. Xia, X.-M. Zhu, P.-H. Peng, J.-F. Xu, **Z.-Y. Lu**, G.-X. Peng, and R.-X. Xu, “Baryon spectra in the framework of an equivparticle model,” **Nucl. Phys. Rev.** 39, 302 (2022).
+17. Q. Lu (卢琪—保送北京航空航天大学读研), W.-J. Chen, **Z.-Y. Lu***, Y. Xu, and X.-Q. Li, “Equation of state and thermodynamic properties of isospin imbalanced strongly interacting matter,” **Acta Phys. Sin.** 70, 145101 (2021). (SCI, 中科院三区)
+18. X. Fu, L. Zhou, J. Yang, **Z.-Y. Lu**, Y. Yang, and G. Tang, “Exploring the potentiality of future standard candles and standard sirens to detect cosmic opacity,” **Chin. Phys. C** 45, 065104 (2021). (SCI, 中科院二区)
+19. **Z.-Y. Lu**, M.-L. Du, F.-K. Guo*, U. G. Meißner, and T. Vonk, “QCD theta-vacuum energy and axion properties,” **J. High Energy Phys.** 05, 001 (2020), arXiv:2003.01625 [hep-ph]. (SCI, 中科院一区, Top期刊)
+20. **Z.-Y. Lu***, C.-J. Xia, and M. Ruggieri, “Thermodynamics and susceptibilities of isospin imbalanced QCD matter,” **Eur. Phys. J. C** 80, 46 (2020), arXiv:1907.11497 [hep-ph]. (SCI, 中科院二区)
+21. M. Ruggieri, M. N. Chernodub, and **Z.-Y. Lu**, “Topological susceptibility, divergent chiral density and phase diagram of chirally imbalanced QCD medium at finite temperature,” **Phys. Rev. D** 102, 014031 (2020), arXiv:2004.09393 [hep-ph]. (SCI, 中科院二区, Top期刊)
+22. **Z.-Y. Lu** and M. Ruggieri, “Effect of the chiral phase transition on axion mass and self-coupling,” **Phys. Rev. D** 100, 014013 (2019), arXiv:1811.05102 [hep-ph]. (SCI, 中科院二区, Top期刊)
+23. **Z.-Y. Lu**, G.-X. Peng*, and K. Zhou, “Effects of non-Newtonian gravity on the properties of strange stars,” **Res. Astron. Astrophys.** 17, 11 (2017).
+24. **Z.-Y. Lu**, G.-X. Peng*, J.-F. Xu, and S. P. Zhang, “Properties of quark matter in a new quasiparticle model with QCD running coupling,” **Sci. China Phys. Mech. Astron.** 59, 662001 (2016).
+25. **Z.-Y. Lu**, G.-X. Peng*, S.-P. Zhang, M. Ruggieri, and V. Greco, “Quark mass scaling and properties of light-quark matter,” **Nucl. Sci. Tech.** 27, 148 (2016).
+26. M. Ruggieri, **Z.-Y. Lu**, and G.-X. Peng, “Influence of chiral chemical potential, parallel electric, and magnetic fields on the critical temperature of QCD,” **Phys. Rev. D** 94, 116003 (2016), arXiv:1608.08310 [hep-ph].
+27. J.-F. Xu, G.-X. Peng*, **Z.-Y. Lu**, and S.-S. Cui, “Two-flavor quark matter in the perturbation theory with full thermodynamic consistency,” **Sci. China Phys. Mech. Astron.** 58, 042001 (2015).
+28. S.-S. Cui, G.-X. Peng*, **Z.-Y. Lu**, C. Peng, and J.-F. Xu, “Properties of color-flavor locked strange quark matter in an external strong magnetic field,” **Nucl. Sci. Tech.** 26, 40503 (2015).
+29. C.-J. Xia, G.-X. Peng*, S.-W. Chen, **Z.-Y. Lu**, and J.-F. Xu, “Thermodynamic consistency, quark mass scaling, and properties of strange matter,” **Phys. Rev. D** 89, 105027 (2014), arXiv:1405.3037 [hep-ph].
+30. L. Gao, **Z.-Y. Lu**, and G.-X. Peng*, “Density isomer of nuclear matter in an equivalent mass approach,” **Nucl. Sci. Tech.** 24, 50505 (2013).
 
 主要教研教改论文
 ======
