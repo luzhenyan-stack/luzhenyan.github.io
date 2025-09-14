@@ -37,56 +37,20 @@ redirect_from:
 27. C.-J. Xia, G.-X. Peng*, S.-W. Chen, **Z.-Y. Lu**, and J.-F. Xu, “Thermodynamic consistency, quark mass scaling, and properties of strange matter,” Phys. Rev. D 89, 105027 (2014), arXiv:1405.3037 [hep-ph].
 28. L. Gao, **Z.-Y. Lu**, and G.-X. Peng*, “Density isomer of nuclear matter in an equivalent mass approach,” Nucl. Sci. Tech. 24, 50505 (2013).
 
-#1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-#1. Go to the
-#[1]	
 
 主要教研教改论文
 ======
-1. 黄凯 (研究生), 陈文慧, 曹德让, 陆振烟*, “斜抛越障轨迹及其影响参数的理论研究,” 湖南科技学院学报, xx(xx), xx-xx (2026).
-1. 王闻作, 陈子沐, 肖佳康, 陆振烟*, “SNP教学模式融入高中物理课堂教学的实践与思考——以“弹力”教学为例,” 物理教学 47(4), 11-14 (2025).
-2. 邹文娟, 王舒鹏, 麻志君, 陆振烟*, “5E模式结合PhET仿真实验的高中物理教学设计——以“抛体运动”为例,” 物理之友  486(9), 55-59 (2025).
-#1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-
-#Site-wide configuration
-[1]	黄凯 (研究生), 陈文慧, 曹德让, 陆振烟*, “斜抛越障轨迹及其影响参数的理论研究,” 湖南科技学院学报, xx(xx), xx-xx (2026). 
-[2]	王闻作, 陈子沐, 肖佳康, 陆振烟*, “SNP教学模式融入高中物理课堂教学的实践与思考——以“弹力”教学为例,” 物理教学 47(4), 11-14 (2025).
-[3]	邹文娟, 王舒鹏, 麻志君, 陆振烟*, “5E模式结合PhET仿真实验的高中物理教学设计——以“抛体运动”为例,” 物理之友  486(9), 55-59 (2025).
-[4]	周红, 沈伟, 王桃芬, 陆振烟*, “科里奥利力对远射程炮弹发射的影响研究,” 物理通报 44(6), 138-141 (2025).
-[5]	王舒鹏 (研究生), 邹文娟, 麻志君, 陆振烟*, “基于PhET与PBL融合的高中物理实验教学—以“动量守恒”为例,”湖南中学物理 40(9), 76-81 (2025).
-[6]	黄俊瑶, 朱中华, 陆振烟*, “中考思政元素与课程教学的双向指导探究—以2019-2023年长沙市中考物理试题为例,” 湖南中学物理 39(12), 99-102 (2024).
-[7]	刘旭, 陆振烟*, “基于学习进阶视角下的教学设计——以“牛顿第一定律”为例,” 湖南中学物理 39(4), 88-91+73 (2024).
-[8]	曾瑶 (保送中山大学读研), 郭璇 (中山大学读研), 陆振烟*, 易贵元, 曹德让, “融入课程思政 铸牢育人之本—以“自由落体运动”为例,” 物理之友 474(6), 39-41 (2024).
-[9]	周聪姿, 朱芳仪, 王舒鹏 (湖南科技大学读研), 陆振烟*, “湖南新高考物理试题分析及教学启示,” 湖南中学物理39(3), 89-92 (2024).
-[10]	易婉, 周琪, 陆振烟*, 麻志君, 周海霞, “流体阻力和抛射高度对抛射体运动规律的影响研究,” 物理通报 43(2), 27-34 (2024).
-[11]	张钰, 易婉, 陆振烟*, 麻志君, 邹代峰, “课程思政在万有引力课堂教学中的设计与实践,” 湖南中学物理 38(2), 22-24 (2023). 
-[12]	麻志君, 杨颖, 付响云, 陆振烟*, “铅球运动最佳抛射角和最大射程的理论研究,” 物理与工程 32(3), 29-35 (2022). 
-
-
-#A data-driven personal website
-#======
-#Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-
-#For those users that need more advanced functionality, the template also supports the following popular tools:
-#- [MathJax](https://www.mathjax.org/) for mathematical equations
-#- [Mermaid](https://mermaid.js.org/) for diagraming
-#- [Plotly](https://plotly.com/javascript/) for plotting
-
-#Getting started
-#======
-#1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-#1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-#1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-
-#Site-wide configuration
-#------
-
-
-#Create content & metadata
-#------
-
-
-#**Markdown generator**
+1. 黄凯 (研究生), 陈文慧, 曹德让, **陆振烟***, “斜抛越障轨迹及其影响参数的理论研究,” **湖南科技学院学报**, xx(xx), xx-xx (2026).
+2. 王闻作, 陈子沐, 肖佳康, **陆振烟***, “SNP教学模式融入高中物理课堂教学的实践与思考——以“弹力”教学为例,” **物理教学** 47(4), 11-14 (2025).
+3. 邹文娟, 王舒鹏, 麻志君, **陆振烟***, “5E模式结合PhET仿真实验的高中物理教学设计——以“抛体运动”为例,” **物理之友**  486(9), 55-59 (2025).
+4. 周红, 沈伟, 王桃芬, **陆振烟***, “科里奥利力对远射程炮弹发射的影响研究,” 物理通报 44(6), 138-141 (2025).
+5. 王舒鹏 (研究生), 邹文娟, 麻志君, **陆振烟***, “基于PhET与PBL融合的高中物理实验教学—以“动量守恒”为例,” **湖南中学物理** 40(9), 76-81 (2025).
+6. 黄俊瑶, 朱中华, **陆振烟***, “中考思政元素与课程教学的双向指导探究—以2019-2023年长沙市中考物理试题为例,” **湖南中学物理** 39(12), 99-102 (2024).
+7. 刘旭, **陆振烟***, “基于学习进阶视角下的教学设计——以“牛顿第一定律”为例,” **湖南中学物理** 39(4), 88-91+73 (2024).
+8. 曾瑶 (保送中山大学读研), 郭璇 (中山大学读研), **陆振烟***, 易贵元, 曹德让, “融入课程思政 铸牢育人之本—以“自由落体运动”为例,” **物理之友** 474(6), 39-41 (2024).
+9. 周聪姿, 朱芳仪, 王舒鹏 (湖南科技大学读研), **陆振烟***, “湖南新高考物理试题分析及教学启示,” **湖南中学物理** 39(3), 89-92 (2024).
+10. 易婉, 周琪, **陆振烟***, 麻志君, 周海霞, “流体阻力和抛射高度对抛射体运动规律的影响研究,” 物理通报 43(2), 27-34 (2024).
+11. 张钰, 易婉, **陆振烟***, 麻志君, 邹代峰, “课程思政在万有引力课堂教学中的设计与实践,” 湖南中学物理 38(2), 22-24 (2023).
+12. 麻志君, 杨颖, 付响云, **陆振烟***, “铅球运动最佳抛射角和最大射程的理论研究,” 物理与工程 32(3), 29-35 (2022). 
 
 
