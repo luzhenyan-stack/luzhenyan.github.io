@@ -6,8 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-[1]	**Z.-Y. Lu**, Y. Huang, J.-G. Cheng, Q. Lu, and S.-P. Wang, “New axion contribution to the two-photon decays of neutral pions,” Eur. Phys. J. C 85, 207 (2025), arXiv:2502.04060 [hep-ph]. (SCI, 中科院二区)
+主要科研论文
+======
+1. **Z.-Y. Lu**, Y. Huang, J.-G. Cheng, Q. Lu, and S.-P. Wang, “New axion contribution to the two-photon decays of neutral pions,” Eur. Phys. J. C 85, 207 (2025), arXiv:2502.04060 [hep-ph]. (SCI, 中科院二区)
+1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+1. Go to the
+[1]	
 
 
 A data-driven personal website
