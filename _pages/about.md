@@ -51,7 +51,7 @@ redirect_from:
 5. S.-P. Wang, Z.-J. Ma, J.-F. Xu and **Z.-Y. Lu***, “Constraints on the equation of state of quark stars from compact object observations,” **Proceedings** 123(1), 3 (2025).
 6. H.-F. Gong, Q. Lu, and **Z.-Y. Lu***, “The QCD axion in hot and dense matter,” **Proceedings** 123(1), 4 (2025).
 7. Z.-H. Zhu, K.-K. Chen, Y.-Q. Zhang, X. Fu, Z. Peng, **Z.-Y. Lu**, Y.-F. Chai, Z. Xiong, Lei Tan, “Single-photon scattering in a two-level giant atom-dual waveguide coupled system based on local coupling phase regulation”, **Acta Phys. Sin.**, 2025, 74(15): 153202.  
-8. H.-F. Gong# (龚红方—保送北京航空航天大学读研), Q. Lu#, **Z.-Y. Lu***, L.-M. Liu, X. Chen, and S.-P. Wang, “QCD topology and axion properties in an isotropic hot and dense medium,” **Eur. Phys. J. C** 84, 1222 (2024). (SCI, 中科院二区)
+8. H.-F. Gong#, Q. Lu#, **Z.-Y. Lu***, L.-M. Liu, X. Chen, and S.-P. Wang, “QCD topology and axion properties in an isotropic hot and dense medium,” **Eur. Phys. J. C** 84, 1222 (2024). (SCI, 中科院二区)
 9. M. Wang, X. Fu, B. Xu, Y. Huang, Y. Yang, **Z.-Y. Lu**, “Testing the cosmic distance duality relation with Type Ia supernova and transverse BAO measurements,” **Eur. Phys. J. C** 84, 702 (2024). (SCI, 中科院二区)
 10. 徐建峰, 崔磊, 夏铖君, **陆振烟**. 夸克物质对称能与夸克星潮汐形变的研究[J]. **原子核物理评论** 41(1): 325-330 (2024). 
 11. Z.-J. Ma, **Z.-Y. Lu***, J.-F. Xu, G.-X. Peng, X. Fu, and J. Wang, “Cold quark matter in a quasiparticle model: Thermodynamic consistency and stellar properties,” **Phys. Rev. D** 108, 054017 (2023). (SCI, 中科院二区, Top期刊)
@@ -60,7 +60,7 @@ redirect_from:
 14. **Z.-Y. Lu***, J.-F. Xu, X.-J. Wen, G.-X. Peng, and M. Ruggieri, “Landau quantization and spin polarization of cold magnetized quark matter,” **Chin. Phys. C** 46, 064104 (2022). (SCI, 中科院二区)
 15. J.-F. Xu, C.-J. Xia, **Z.-Y. Lu**, G.-X. Peng and Y.-P. Zhao, “Symmetry energy of strange quark matter and tidal deformability of strange quark stars,” **Nucl. Sci. Tech.** 33, 143 (2022). (SCI, 中科院二区)
 16. H.-S. You, C.-J. Xia, X.-M. Zhu, P.-H. Peng, J.-F. Xu, **Z.-Y. Lu**, G.-X. Peng, and R.-X. Xu, “Baryon spectra in the framework of an equivparticle model,” **Nucl. Phys. Rev.** 39, 302 (2022).
-17. Q. Lu (卢琪—保送北京航空航天大学读研), W.-J. Chen, **Z.-Y. Lu***, Y. Xu, and X.-Q. Li, “Equation of state and thermodynamic properties of isospin imbalanced strongly interacting matter,” **Acta Phys. Sin.** 70, 145101 (2021). (SCI, 中科院三区)
+17. Q. Lu, W.-J. Chen, **Z.-Y. Lu***, Y. Xu, and X.-Q. Li, “Equation of state and thermodynamic properties of isospin imbalanced strongly interacting matter,” **Acta Phys. Sin.** 70, 145101 (2021). (SCI, 中科院三区)
 18. X. Fu, L. Zhou, J. Yang, **Z.-Y. Lu**, Y. Yang, and G. Tang, “Exploring the potentiality of future standard candles and standard sirens to detect cosmic opacity,” **Chin. Phys. C** 45, 065104 (2021). (SCI, 中科院二区)
 19. **Z.-Y. Lu**, M.-L. Du, F.-K. Guo*, U. G. Meißner, and T. Vonk, “QCD theta-vacuum energy and axion properties,” **J. High Energy Phys.** 05, 001 (2020). (SCI, 中科院一区, Top期刊)
 20. **Z.-Y. Lu***, C.-J. Xia, and M. Ruggieri, “Thermodynamics and susceptibilities of isospin imbalanced QCD matter,” **Eur. Phys. J. C** 80, 46 (2020). (SCI, 中科院二区)
