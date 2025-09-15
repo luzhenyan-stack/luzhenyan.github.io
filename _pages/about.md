@@ -44,7 +44,7 @@ redirect_from:
 
 主要科研论文
 ======
-1. **Z.-Y. Lu**, Y. Huang, J.-G. Cheng, Q. Lu, and S.-P. Wang, “New axion contribution to the two-photon decays of neutral pions,” **Eur. Phys. J. C** 85, 207 (2025). (SCI, 中科院二区)
+1. <u>**Z.-Y. Lu**</u>, Y. Huang, J.-G. Cheng, Q. Lu, and S.-P. Wang, “New axion contribution to the two-photon decays of neutral pions,” **Eur. Phys. J. C** 85, 207 (2025). (SCI, 中科院二区)
 2. **Z.-Y. Lu***, S.-P. Wang, and Q. Lu, “New contribution to the anomalous π0 → γγ decay in SU(2) chiral perturbation theory,” **Proceedings** 123(1), 1 (2025).
 3. Y. Huang, X. Fu, **Z.-Y. Lu**, X. Qin, “The influence of cosmological constant on light deflection in rotating spacetimes via the generalized Gibbons–Werner method,” **Phys. Dark Univ.** 50, 102070 (2025). (SCI, 中科院二区)
 4. X. Chen, R. Adam, D. E. Bürgler, F. Wang, **Z.-Y. Lu**, et al, “Ultrafast demagnetization in ferromagnetic materials: Origins and progress,” **Phys. Rep.** 1102, 1-63 (2025). (SCI, 中科院一区, Top期刊)
