@@ -31,7 +31,7 @@ redirect_from:
 
 联系方式
 ======
-邮箱: luzhenyan@hnust.edu.cn     办公室: 知行楼A311   
+邮箱: luzhenyan@hnust.edu.cn         办公室: 知行楼A311   
 
 科研项目
 ======
