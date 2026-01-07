@@ -19,8 +19,8 @@ redirect_from:
 ======
 主要从事粒子物理与天体物理等方面的理论研究，研究方向为粒子物理，轴子与暗物质，量子色动力学低能有效理论，强作用物质状态方程和QCD相变，统计物理等。
 
-截至目前，已发表学术论文30余篇，论文发表情况详见 Inspire 主页：https://inspirehep.net/authors/1488457
-[Inspire 主页](https://inspirehep.net/authors/1488457)
+截至目前，已发表学术论文30余篇，论文发表情况详见 [Inspire 主页](https://inspirehep.net/authors/1488457)：[https://inspirehep.net/authors/1488457](https://inspirehep.net/authors/1488457)
+
 
 
 学术兼职
