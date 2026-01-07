@@ -63,7 +63,7 @@ redirect_from:
 8. S.-P. Wang, Z.-J. Ma, J.-F. Xu and **Z.-Y. Lu(陆振烟)**#, “_Constraints on the equation of state of quark stars from compact object observations_,” **Proceedings** 123(1), 3 (2025).
 9. H.-F. Gong, Q. Lu, and **Z.-Y. Lu(陆振烟)**#, “_The QCD axion in hot and dense matter_,” **Proceedings** 123(1), 4 (2025).
 10. Z.-H. Zhu, K.-K. Chen, Y.-Q. Zhang, X. Fu, Z. Peng, **Z.-Y. Lu(陆振烟)**, Y.-F. Chai, Z. Xiong, Lei Tan, “_Single-photon scattering in a two-level giant atom-dual waveguide coupled system based on local coupling phase regulation_,” **Acta Phys. Sin.**, 2025, 74(15): 153202.  
-11. H.-F. Gong**, Q. Lu**, **Z.-Y. Lu(陆振烟)**#, L.-M. Liu, X. Chen, and S.-P. Wang, “_QCD topology and axion properties in an isotropic hot and dense medium_,” **Eur. Phys. J. C** 84, 1222 (2024). (SCI, 中科院二区)
+11. *H.-F. Gong*, *Q. Lu*, **Z.-Y. Lu(陆振烟)**#, L.-M. Liu, X. Chen, and S.-P. Wang, “_QCD topology and axion properties in an isotropic hot and dense medium_,” **Eur. Phys. J. C** 84, 1222 (2024). (SCI, 中科院二区)
 12. M. Wang, X. Fu, B. Xu, Y. Huang, Y. Yang, **Z.-Y. Lu(陆振烟)**, “_Testing the cosmic distance duality relation with Type Ia supernova and transverse BAO measurements_,” **Eur. Phys. J. C** 84, 702 (2024). (SCI, 中科院二区)
 13. 徐建峰, 崔磊, 夏铖君, **陆振烟**. “_夸克物质对称能与夸克星潮汐形变的研究_,” **原子核物理评论** 41(1): 325-330 (2024). 
 14. Z.-J. Ma, **Z.-Y. Lu(陆振烟)**#, J.-F. Xu, G.-X. Peng, X. Fu, and J. Wang, “_Cold quark matter in a quasiparticle model: Thermodynamic consistency and stellar properties_,” **Phys. Rev. D** 108, 054017 (2023). (SCI, 中科院二区, Top期刊)
