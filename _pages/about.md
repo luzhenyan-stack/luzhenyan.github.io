@@ -55,9 +55,9 @@ redirect_from:
 ======
 1. **Z.-Y. Lu(陆振烟)***, Y. Huang, J.-G. Cheng, Q. Lu, and S.-P. Wang, “_New axion contribution to the two-photon decays of neutral pions_,” **Eur. Phys. J. C** 85, 207 (2025). (SCI, 中科院二区)
 2. **Z.-Y. Lu(陆振烟)***, S.-P. Wang(研究生), Q. Lu, B.-N. Zhang, and M. Ruggieri, “_QCD axions and domain walls in hot and dense matter of compact stars_,” **Eur. Phys. J. C** 85, 1371 (2025). (SCI, 中科院二区)
-3. S.-P. Wang(研究生), **Z.-Y. Lu(陆振烟)***, Z.-J. Ma*, R.-Y. Yang*, J.-F. Xu*, X. Fu, “_Probing the nonstrange quark star equation of state with compact stars and gravitational waves_,” **Phys. Rev. D** 112, 094036 (2025). (SCI, 中科院二区)
+3. S.-P. Wang(研究生), **Z.-Y. Lu(陆振烟)***, Z.-J. Ma, R.-Y. Yang, J.-F. Xu, X. Fu, “_Probing the nonstrange quark star equation of state with compact stars and gravitational waves_,” **Phys. Rev. D** 112, 094036 (2025). (SCI, 中科院二区)
 4. X. Chen, R. Adam, D. E. Bürgler, F. Wang, **Z.-Y. Lu(陆振烟)**, et al, “_Ultrafast demagnetization in ferromagnetic materials: Origins and progress_,” **Phys. Rep.** 1102, 1-63 (2025). (SCI, 中科院一区, Top期刊)
-5. S.-P. Wang(研究生), Q.-L. Zhang, Z.-J. Ma, J.-X. Li, **Z.-Y. Lu(陆振烟)***, R.-Y. Yang*, “_Tuning SWCNT length to optimize the rate-efficiency-stability triad in nanofluidic water channels_,” **Molecules** 30(23), 4548 (2025).
+5. S.-P. Wang(研究生), Q.-L. Zhang, Z.-J. Ma, J.-X. Li, **Z.-Y. Lu(陆振烟)***, R.-Y. Yang, “_Tuning SWCNT length to optimize the rate-efficiency-stability triad in nanofluidic water channels_,” **Molecules** 30(23), 4548 (2025).
 6. **Z.-Y. Lu(陆振烟)***, S.-P. Wang, and Q. Lu, “_New contribution to the anomalous π0 → γγ decay in SU(2) chiral perturbation theory_,” **Proceedings** 123(1), 1 (2025).
 7. Y. Huang, X. Fu, **Z.-Y. Lu(陆振烟)**, X. Qin, “_The influence of cosmological constant on light deflection in rotating spacetimes via the generalized Gibbons–Werner method_,” **Phys. Dark Univ.** 50, 102070 (2025). (SCI, 中科院二区)
 8. S.-P. Wang, Z.-J. Ma, J.-F. Xu and **Z.-Y. Lu(陆振烟)***, “_Constraints on the equation of state of quark stars from compact object observations_,” **Proceedings** 123(1), 3 (2025).
