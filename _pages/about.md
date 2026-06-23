@@ -58,7 +58,7 @@ redirect_from:
 
 主要科研论文
 ======
-1. H.-J. Yuan, S.-P. Wang, R.-J. Liu, Q. Tang, R.-Y. Yang, Z.-J. Ma*, **Z.-Y. Lu(陆振烟)**#, “_Asymmetric response of confined water transport in carbon nanotubes to entrance and exit effects_,” **Phys. Fluids** 38, 062002 (2026).
+1. H.-J. Yuan, S.-P. Wang, R.-J. Liu, Q. Tang, R.-Y. Yang, Z.-J. Ma#, **Z.-Y. Lu(陆振烟)**#, “_Asymmetric response of confined water transport in carbon nanotubes to entrance and exit effects_,” **Phys. Fluids** 38, 062002 (2026).
 2. Z.-J. Ma, S.-P. Wang, S.-Z. Yi, W. Shen, R.-Y. Yang, Y.-X. Liu, Z.-H. Zhu, **Z.-Y. Lu(陆振烟)**#, “_Resonant terahertz excitation of conﬁned water in carbon nanotubes_,” **Langmuir** 42, 17290–17297 (2026)
 3.  **Z.-Y. Lu(陆振烟)**#, Q. Tang, S.-P. Wang, Y. Huang, Z. Zhang, B.-N. Zhang, “_Topological observables and domain wall tension from finite temperature chiral perturbation theory_,” **Phys. Rev. D** 113, 054042 (2026), arXiv:2603.04116 [hep-ph]. (SCI, 中科院二区, Top期刊)
 4.  S.-P. Wang, Q.-L. Zhang, **Z.-Y. Lu(陆振烟)**, J.-X. Li, Z.-J. Ma*, R.-Y. Yang*, “_Charge-induced stabilization of ultra-long water bridges between disjoint carbon nanotubes_,” **Langmuir** 42, 16339-16349 (2026). 
