@@ -19,7 +19,8 @@ redirect_from:
 ======
 主要从事粒子物理与天体物理等方面的理论研究，研究方向为粒子物理，轴子与暗物质，量子色动力学低能有效理论，强作用物质状态方程和QCD相变，太赫兹物理、软凝聚态物理等。
 
-截至目前，已发表学术论文40余篇，论文发表情况详见 [Inspire 主页](https://inspirehep.net/authors/1488457)：[https://inspirehep.net/authors/1488457](https://inspirehep.net/authors/1488457); [ORCiD 主页](https://orcid.org/0000-0002-2629-3329)：[https://orcid.org/0000-0002-2629-3329](https://orcid.org/0000-0002-2629-3329)
+截至目前，已发表学术论文40余篇，论文发表情况详见 [Inspire 主页](https://inspirehep.net/authors/1488457)：[https://inspirehep.net/authors/1488457](https://inspirehep.net/authors/1488457)
+                                             [ORCiD 主页](https://orcid.org/0000-0002-2629-3329)：[https://orcid.org/0000-0002-2629-3329](https://orcid.org/0000-0002-2629-3329)
 
 
 
@@ -61,11 +62,11 @@ redirect_from:
 1. H.-J. Yuan, S.-P. Wang, R.-J. Liu, Q. Tang, R.-Y. Yang, Z.-J. Ma#, **Z.-Y. Lu(陆振烟)**#, “_Asymmetric response of confined water transport in carbon nanotubes to entrance and exit effects_,” **Phys. Fluids** 38, 062002 (2026).
 2. Z.-J. Ma, S.-P. Wang, S.-Z. Yi, W. Shen, R.-Y. Yang, Y.-X. Liu, Z.-H. Zhu, **Z.-Y. Lu(陆振烟)**#, “_Resonant terahertz excitation of conﬁned water in carbon nanotubes_,” **Langmuir** 42, 17290–17297 (2026)
 3.  **Z.-Y. Lu(陆振烟)**#, Q. Tang, S.-P. Wang, Y. Huang, Z. Zhang, B.-N. Zhang, “_Topological observables and domain wall tension from finite temperature chiral perturbation theory_,” **Phys. Rev. D** 113, 054042 (2026), arXiv:2603.04116 [hep-ph]. (SCI, 中科院二区, Top期刊)
-4. Y. Huang, X. Fu, **Z.-Y. Lu(陆振烟)**, X. Qin, X. Zhou, L. Hui, “Extending Gibbons–Werner method to equatorial bound massive particles in stationary axisymmetric spacetimes,” **Eur. Phys. J. C** 86, 811 (2026). (SCI, 新锐分区二区, 自然指数期刊)
+4. Y. Huang, X. Fu, **Z.-Y. Lu(陆振烟)**, X. Qin, X. Zhou, L. Hui, “_Extending Gibbons–Werner method to equatorial bound massive particles in stationary axisymmetric spacetimes_,” **Eur. Phys. J. C** 86, 811 (2026). (SCI, 新锐分区二区, 自然指数期刊)
 5.  S.-P. Wang, Q.-L. Zhang, **Z.-Y. Lu(陆振烟)**, J.-X. Li, Z.-J. Ma*, R.-Y. Yang*, “_Charge-induced stabilization of ultra-long water bridges between disjoint carbon nanotubes_,” **Langmuir** 42, 16339-16349 (2026). 
 6. S.-P. Wang, Q.-L. Zhang, **Z.-Y. Lu(陆振烟)**, Z.-J. Ma*, R.-Y. Yang*, “_Modulating water transport in fractured carbon nanotubes: The role of terahertz electric fields and nanotube geometry_,” **J. Appl. Phys.** 139, 104302 (2026). (SCI, Featured Articles)
 7. Q. Tang, S.-P. Wang, S. Zhu, **Z.-Y. Lu(陆振烟)**, R.-Y. Yang*, “_Coupled effects of gap width and tube length on water transport through disjoint carbon nanotubes_,” **Phys. Fluids** 38, 032108 (2026). (SCI, 中科院二区)
-8. R. Wang, M. Liu, X. Wang, J. Xu, L. Pan, J. Li, **Z.-Y. Lu(陆振烟)**，M. Liu, D. Cao, “Structural origins of effective anisotropy in stripe domain formation,” **Phys. Rev. B** 114, 034406 (2026). 
+8. R. Wang, M. Liu, X. Wang, J. Xu, L. Pan, J. Li, **Z.-Y. Lu(陆振烟)**，M. Liu, D. Cao, “_Structural origins of effective anisotropy in stripe domain formation_,” **Phys. Rev. B** 114, 034406 (2026). 
 9. **Z.-Y. Lu(陆振烟)**, Y. Huang, J.-G. Cheng, Q. Lu, and S.-P. Wang, “_New axion contribution to the two-photon decays of neutral pions_,” **Eur. Phys. J. C** 85, 207 (2025). (SCI, 中科院二区)
 10. **Z.-Y. Lu(陆振烟)**, S.-P. Wang(研究生), Q. Lu, B.-N. Zhang, and M. Ruggieri, “_QCD axions and domain walls in hot and dense matter of compact stars_,” **Eur. Phys. J. C** 85, 1371 (2025). (SCI, 中科院二区)
 11. S.-P. Wang(研究生), **Z.-Y. Lu(陆振烟)**#, Z.-J. Ma#, R.-Y. Yang#, J.-F. Xu#, X. Fu, “_Probing the nonstrange quark star equation of state with compact stars and gravitational waves_,” **Phys. Rev. D** 112, 094036 (2025). (SCI, 中科院二区)
